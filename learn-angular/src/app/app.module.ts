@@ -4,7 +4,8 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ComponentComponent } from './component/component.component';
-// import { ComponentModule } from './component/component.module';
+
+
 
 @NgModule({
   declarations: [
